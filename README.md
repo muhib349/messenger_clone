@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+# Sample
+
+![Image description](sample.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
